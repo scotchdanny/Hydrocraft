@@ -2156,8 +2156,8 @@ local garagestorage_items = {
         "Hydrocraft.HCStarterfluid", 1,
         "Hydrocraft.HCSolarpanel", 1,
         "Hydrocraft.HCMagazinespopularmachines01", 1,
---         "Hydrocraft.HCSolidfuelbox", 0.01,
-        "Hydrocraft.HCHelmmotorcycle", 0.1,
+--         "Hydrocraft.HCSolidfuelbox", 0.01
+	
         "Hydrocraft.HCWireconcertina", 1,
         "Hydrocraft.HCBicycle", 0.5,
         "Hydrocraft.HCBicyclepump", 0.5,
